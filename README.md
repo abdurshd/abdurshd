@@ -51,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <td width="90%">
+    <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/abdurshd/portfolio">
