@@ -23,7 +23,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs I am using</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,tailwind,react-bootstrap,materialui,js,ts,react,redux,recoil,nextjs,nodejs,express,ejs,md,mongo,firebase,git,vscode,postman&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,ts,react,redux,apollo,nextjs,nodejs,express,md,mongo,firebase,bash,git,vscode,postman&perline=10"  />
 </p>
 <br />
 
