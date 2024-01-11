@@ -50,16 +50,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/abdurshd/portfolio">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abdurshd&repo=portfolio&theme=nightowl&show_owner=true" alt="Portfolio" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <br />
 
