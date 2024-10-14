@@ -10,10 +10,10 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Front End Web Developer and Tech Enthusiast with a huge love for React.js, Next.js, Node.js, REST API, graphql and Tailwind CSS. </p>
+<p align="left">I am a Front End Web Developer and Tech Enthusiast with a huge love for React.js, Tailwind CSS, Next.js, Node.js, Java Spring Boot, REST API and graphql. </p>
 
 - ✨ Lifelong learner
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://abdurashid.tech) for more details about me.
 <!--End Intro-->
 
