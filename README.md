@@ -14,7 +14,7 @@
 
 - ✨ Lifelong learner
 - 🌱 I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://abdurashid.tech) for more details about me.
+- 💻 Visit my [Portfolio](https://abdurashid.com) for more details about me.
 <!--End Intro-->
 
 ---
