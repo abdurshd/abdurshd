@@ -23,7 +23,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs I am using</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=git,tailwind,materialui,python,ts,java,react,redux,rest,apollo,nextjs,firebase,nodejs,express,spring,mongo,sqlite,postgres,redis,postman,docker,nginx,aws,gcp,terraform,&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=git,tailwind,materialui,python,ts,java,react,reactnative,redux,zustand,recoil,apollo,nextjs,firebase,nodejs,express,spring,mongo,sqlite,postgres,redis,postman,docker,nginx,aws,gcp,terraform,&perline=10"  />
 </p>
 <br />
 
