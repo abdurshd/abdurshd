@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Tech Enthusiast with a huge love for creating applications, automating things with code, and using my lazyness in smarter way. </p>
+<p align="left">I am a Full Stack Engineer and Tech Enthusiast with a huge love for creating applications, automating things with code, and using my lazyness in smarter way. </p>
 
 - ✨ Lifelong learner
 - 🌱 I believe that everyday is a learning opportunity.
