@@ -20,11 +20,4 @@
 ---
 <br />
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs I am using</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=python,ts,java,tailwind,materialui,react,redux,graphql,nextjs,cypress,firebase,nodejs,express,spring,mongodb,sqlite,postgres,redis,postman,git,docker,githubactions,nginx,aws,gcp,terraform,&perline=10"  />
-</p>
-<br />
-
 
