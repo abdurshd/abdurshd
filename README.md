@@ -1,11 +1,6 @@
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ABDURASHID or RICKY! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I am Abdurashid! 
 *Software Engineer / Programmer*
 <br /> 
 
@@ -14,7 +9,7 @@
 
 - ✨ Lifelong learner
 - 🌱 I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://abdurashid.com) for more details about me.
+- 💻 Visit my [website](https://abdurashid.com) for more details about me and my work.
 <!--End Intro-->
 
 ---
